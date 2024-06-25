@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.trunk
+.env
+.vscode/
+.coverage
+coverage.xml
+.pytest_cache
+temp/
+requirements.txt
+db.sqlite3
